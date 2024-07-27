@@ -13,7 +13,7 @@ $Data .= $condensed1;
 
 $Data .= "\n";
 $Data .= "================================\n";
-
+$Data .= pecah("1","produk A","RP. 5000")
 $Data .= "\n";
 $Data .= "\n";
 $Data .= tengah("TERIMAKASIH");
